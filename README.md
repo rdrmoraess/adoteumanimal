@@ -1,2 +1,2 @@
 # adoteumanimal
-Projeto inspirado em um petshop
+PROJETO INSPIRADO EM UM PETSHOP
